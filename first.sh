@@ -1,3 +1,4 @@
+echo "commands"
 mkdir
 ls
 ls -l
